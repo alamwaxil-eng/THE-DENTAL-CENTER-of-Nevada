@@ -1,2 +1,20 @@
-# THE-DENTAL-CENTER-of-Nevada
-A premium healthcare website project designed for a dental practice, featuring modern UI/UX, responsive layouts, smooth animations, SEO-friendly structure, and fast-loading pages.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/a9311450-31e2-4a94-bf8a-d9cb799cfa15
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`

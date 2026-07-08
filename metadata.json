@@ -1,0 +1,6 @@
+{
+  "name": "The Dental Center of Nevada",
+  "description": "Premium family and cosmetic dentistry clinic in Las Vegas, NV, featuring online appointment requests, interactive service guides, and office information.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
